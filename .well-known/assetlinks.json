@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.idenfyapp.idenfy_sample_android",
+    "sha256_cert_fingerprints":
+    ["FB:D8:13:84:72:D8:EA:86:ED:D0:C8:32:58:6E:88:2A:A3:D3:07:B6:0E:A4:94:5C:E0:C2:BD:FF:CD:D6:85:21"]
+  }
+}]
